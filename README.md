@@ -2,7 +2,7 @@
 solve sudoku real time using computer vision and neural network
 
 
-for numbers recognition:
+for numbers recognition :
 
 hog(Histogram of Oriented Gradients) to extract fetures
 
@@ -12,6 +12,7 @@ dataset it's from 20 sudoku images
 
 
 ---- Libraries version ------- 
+
 opencv   version  4.4.0
 
 numpy    version  1.18.5
