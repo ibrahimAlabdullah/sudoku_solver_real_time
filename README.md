@@ -2,7 +2,6 @@
 solve sudoku real time using computer vision and neural network
 
 
-
 for numbers recognition :
 hog(Histogram of Oriented Gradients) to extract fetures 
 svm classifer to predict numbers
