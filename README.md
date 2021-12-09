@@ -8,8 +8,6 @@ hog(Histogram of Oriented Gradients) to extract fetures
 
 svm classifer to predict numbers
 
-dataset it's from 20 sudoku images  
-
 
 ---- Libraries version ------- 
 
